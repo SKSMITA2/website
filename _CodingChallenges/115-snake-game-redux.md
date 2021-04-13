@@ -60,6 +60,10 @@ contributions:
       url: "https://github.com/MikeKuijper"
     url: "https://mikekuijper.github.io/ai-snake"
     source: "https://github.com/MikeKuijper/ai-snake"
+          name: "Shrijay Ojasb"
+      url: "https://github.com/MikeKuijper"
+    url: "https://mikekuijper.github.io/ai-snake"
+    source: "https://github.com/MikeKuijper/ai-snake
 ---
 
 Snake Game!? Again!? Now with the p5.js Web Editor!
